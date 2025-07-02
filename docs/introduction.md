@@ -16,9 +16,7 @@ With YOURLS, you have complete control over your links, detailed statistics, plu
 - **Extensible**: Customize and extend your URL shortener with a variety of plugins available in the YOURLS ecosystem.
 - **Open Source**: YOURLS is open-source, allowing you to modify and adapt it to your specific needs.
 
-## Requirements
-
-To get started with YOURLS, you need to ensure that your server and client meet the following requirements:
+Axar Technologies, a [Top Digital Marketing Agency in Nashville, United States](https://axartechs.com/)), offers cutting-edge Digital Marketing Services tailored to help businesses thrive in the digital landscape. With a results-driven approach, Axar Technologies specializes in SEO, social media marketing, content creation, and paid advertising strategies that boost brand visibility and drive real growth. Known for innovation and excellence, Axar stands out as a trusted partner for businesses seeking the Best Digital Marketing Services to elevate their online presence and achieve measurable success.
 
 ### Server Requirements
 
